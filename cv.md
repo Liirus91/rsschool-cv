@@ -33,4 +33,4 @@ ___
 * Hebrew - planned soon
 
 ___
-<img src="https://rs.school/images/rs_school.svg"/>
+<img src="https://rs.school/images/rs_school.svg" width="195" height="70"/>
