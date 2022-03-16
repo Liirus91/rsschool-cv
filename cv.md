@@ -12,7 +12,7 @@ ___
 
 ___
 
-## About me
+## About me:
 Started career as Manual and Automation QA. Then the management of my company offered me to change my qualification to Frontend Developer. Since I love writing code, I of course agreed and started learning new technologies.
 
 ___
@@ -27,9 +27,10 @@ ___
 
 ___
 
-## Languages
+## Languages:
 * Russian - native speaker
 * English - A2/B1
 * Hebrew - planned soon
 
 ___
+<img src="https://rs.school/images/rs_school.svg"/>
