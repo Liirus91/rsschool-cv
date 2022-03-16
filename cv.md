@@ -12,12 +12,12 @@ ___
 
 ___
 
-## About Me
-Started career as Manual and Automation QA. Then the management of my company offered me to change my qualification to Frontend Developer.Since I love writing code, I of course agreed and started learning new technologies.
+## About me
+Started career as Manual and Automation QA. Then the management of my company offered me to change my qualification to Frontend Developer. Since I love writing code, I of course agreed and started learning new technologies.
 
 ___
 
-## Skills and Proficiency:
+## Skills:
 * HTML5, CSS3
 * JavaScript
 * ReactJS 
