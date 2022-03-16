@@ -1,17 +1,13 @@
-___
-
 # Dmitry Shvets
 
-___
-
-Junior Frontend Developer
-
-___
+## Junior Frontend Developer
 ___
 
 ## Contact information:
 **Telegram:** @liirus
+
 **E-mail:** <liirus91@gmail.com>
+
 **GitHub:** @Liirus91
 
 ___
@@ -32,8 +28,8 @@ ___
 ___
 
 ## Languages
-Russian - native speaker
-English - A2/B1
-Hebrew - planned soon
+* Russian - native speaker
+* English - A2/B1
+* Hebrew - planned soon
 
 ___
